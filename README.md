@@ -1,1 +1,2 @@
 # cumix
+training on SQL
